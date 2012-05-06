@@ -1,0 +1,4 @@
+hiera-redis empowers Hiera to retrieve values from a Redis database.
+
+WWW: http://github.com/reliantsecurity/hiera-redis/
+
